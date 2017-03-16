@@ -1,2 +1,2 @@
 "# calcularTiempo" 
-primer commit
+primer commit hecho
