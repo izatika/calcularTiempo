@@ -9813,10 +9813,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\izatika\\Documents\\Visual Studio 2017\\Projects\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\izatika\\documents\\visual studio 2017\\Projects\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\izatika\\Documents\\Visual Studio 2017\\Projects\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
-      "outputPath": "C:\\Users\\izatika\\Documents\\Visual Studio 2017\\Projects\\MvcMovie\\MvcMovie\\obj\\",
+      "projectPath": "C:\\Users\\izatika\\documents\\visual studio 2017\\Projects\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "outputPath": "C:\\Users\\izatika\\documents\\visual studio 2017\\Projects\\MvcMovie\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
